@@ -1,0 +1,24 @@
+{
+    "name": "enzo/mvc",
+    "description": "Projeto voltado para o aprendizado do MVC",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "enzosarmento",
+            "email": "enzosarmento91@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\":"App/",
+            "Core\\":"Core/"
+        },
+        "files": [
+            "config/config.php"
+        ]
+    }
+}

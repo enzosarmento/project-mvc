@@ -12,12 +12,8 @@
             <label for="email">Email</label>
             <input type="email" name="email" class="form-control" id="email" placeholder="Seu email">
         </div>
-        <div class="form-group">
-            <label for="tel">Telefone</label>
-            <input type="tel" name="tel" class="form-control" id="tel" placeholder="Seu telefone" >
-        </div>
-        <button type="submit" value="enviar" class="btn btn-primary">Enviar</button>
-        <button type="reset" value="limpar" class="btn btn-danger">Limpar</button>
+        <input type="submit" value="Enviar" class="btn btn-primary">
+        <input type="reset" value="Limpar" class="btn btn-danger">
     </form>
 
 </div>

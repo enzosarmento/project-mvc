@@ -24,9 +24,6 @@
                     <a class="nav-link" href="?router=Site/home/">Home <span class="sr-only">(Página atual)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="?router=Site/galeria/">Destaques</a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link" href="?router=Site/cadastro/">Cadastro</a>
                 </li>
                 <li class="nav-item">
